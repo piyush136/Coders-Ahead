@@ -51,9 +51,7 @@ Coders Ahead consists of three main components:
 
 ---
 
-## Architecture Diagram 🏗️
-High-level overview of the Coders Ahead system architecture.
-
+<img width='100%' src='https://github.com/piyush136/Coders-Ahead/blob/main/screenshots/S3.png' />
 ---
 
 ## Key Features
@@ -65,7 +63,7 @@ High-level overview of the Coders Ahead system architecture.
 - Cart Checkout
 - Course Content
 - User Profile & Edit Details
-
+<img width='100%' src='https://github.com/piyush136/Coders-Ahead/blob/main/screenshots/S2.png' />
 ### For Instructors:
 - Dashboard
 - Insights
@@ -85,8 +83,8 @@ High-level overview of the Coders Ahead system architecture.
 Database schema structure detailing users, courses, and transactions.
 
 ---
-
-
+<img width='100%' src='https://github.com/piyush136/Coders-Ahead/blob/main/screenshots/S1.png' />
 ---
 
 
+<img width='100%' src='https://github.com/piyush136/Coders-Ahead/blob/main/screenshots/S4.png' />
